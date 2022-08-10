@@ -1,0 +1,18 @@
+*{
+    Margin: 0;
+    Padding: 0;
+    Box-sizing: border-box;
+    }
+    
+    a{
+    Text-decoration: none;
+    Outline: none;
+    }
+    
+    Body{
+    Font-family: 'roboto', sans-serif;
+    }
+    
+    Html{
+    Scroll--behavior: smooth;
+    }
