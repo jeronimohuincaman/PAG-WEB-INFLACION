@@ -9,10 +9,10 @@
     Outline: none;
     }
     
-    Body{
+    body{
     Font-family: 'roboto', sans-serif;
     }
     
-    Html{
+    html{
     Scroll--behavior: smooth;
     }
