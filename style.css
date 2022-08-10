@@ -12,8 +12,25 @@
     
     body{
     Font-family: 'roboto', sans-serif;
+    padding: 30px;
+    text-align: center;
     }
     
     html{
     scroll-behavior: smooth;
+    }
+
+    h1{
+        font-size: 50px;
+    }
+
+/*    header > h1{
+        text-align: center;
+        
+    }
+    */
+    header > p{
+        font-size: 30px;
+        margin: 10px;
+        text-align: center;
     }
