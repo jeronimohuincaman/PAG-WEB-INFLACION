@@ -26,6 +26,8 @@ header {
   width: 100%;
   margin: 0 auto;
   height: 70px;
+  background-color: rgb(87, 87, 209);
+
 }
 
 .nav {
@@ -34,14 +36,16 @@ header {
 
 #menu {
   scroll-behavior: smooth;
-  width: 100%;
+  width: 1000px;
   align-items: center;
+margin: 0 500px 0 500px;
+
+
 }
 
 ul {
   list-style: none;
   position: fixed;
-  margin: 0 500px 0 500px;
 }
 
 #menu li>a {
