@@ -16,9 +16,9 @@
     /*HEADER*/
     
     header{
-        font-family: Helvetica;
         width: 100%;
         margin: 0 auto;
+        height: 70px;
       }
     
     .menu{
@@ -34,7 +34,6 @@
         padding: 10px;
         display: flex;
         text-decoration: none;
-        max-width: max-content;
       }
       #menu li>a:hover{
         color: #000;
@@ -47,6 +46,8 @@
       #menu>li>ul{
         display: none;
       }
+
+
     .desc{
       padding-top: 50px;
     }
