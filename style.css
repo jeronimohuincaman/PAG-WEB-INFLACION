@@ -11,24 +11,20 @@
     
     body{
     Font-family: 'roboto', sans-serif;
-    padding: 30px;
-    text-align: center;
     }
+    
+    /*HEADER*/
+    
+    header{
+        width: 100%;
+        margin: 0 auto;
+        height: 70px;
+      }
     
     .menu{
     scroll-behavior: smooth;
     }
 
-
-    *{
-        margin: 0;
-        padding: 0;
-      }
-      header{
-        font-family: Helvetica;
-        width: 480px;
-        margin: 0 auto;
-      }
       ul{
         list-style: none;
       }
@@ -36,9 +32,8 @@
         background-color: aqua;
         color: white;
         padding: 10px;
-        display: block;
+        display: flex;
         text-decoration: none;
-        min-width: 100px;
       }
       #menu li>a:hover{
         color: #000;
@@ -51,6 +46,8 @@
       #menu>li>ul{
         display: none;
       }
+
+
     .desc{
       padding-top: 50px;
     }
@@ -64,6 +61,10 @@
         margin: 10px;
         text-align: center;
     }
+
+
+
+    /*FOOTER*/
 
     .pie-pagina{
       width: 100%;
