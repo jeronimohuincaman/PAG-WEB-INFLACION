@@ -49,6 +49,15 @@
         text-align:center
       }
 
+    
+
+/*Main*/
+
+      .contenido{
+        margin: 10px 0;
+        padding: 10px 0;
+        text-align: center;
+      }
 
     .desc{
       padding-top: 50px;
