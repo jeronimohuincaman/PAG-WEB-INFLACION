@@ -42,7 +42,8 @@
         position: fixed;
       }
       #menu li>a{
-        background-color: aqua;
+        background-color:  rgb(87, 87, 209);
+        font-size: 20px;
         color: white;
         padding: 10px;
         display: flex;
@@ -64,7 +65,7 @@
 
       .contenido{
         margin: 0;
-        padding: 10px 0;
+        padding: 0 0 10px;
         text-align: center;
         background-color: #eaeaea;
       }
@@ -72,7 +73,8 @@
       .intro{
         background-color: rgb(87, 87, 209);
         color: rgb(250, 245, 245);
-
+        margin: 0;
+        padding: 0;
       }
 
     .desc{
