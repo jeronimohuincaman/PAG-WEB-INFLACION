@@ -69,11 +69,17 @@
         background-color: #eaeaea;
       }
 
+      .intro{
+        background-color: rgb(87, 87, 209);
+        color: rgb(250, 245, 245);
+
+      }
+
     .desc{
-      padding-top: 50px;
+      padding-top: 100px;
     }
-    .intro > h1{
-        font-size: 70px;
+    .intro  h1{
+        font-size: 80px;
         text-align: center;
         
     }
