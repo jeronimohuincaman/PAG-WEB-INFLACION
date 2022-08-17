@@ -8,6 +8,13 @@
     Text-decoration: none;
     Outline: none;
     }
+
+    p{
+        font-size: 25px;
+        margin: auto;
+        padding: 20px 50px;
+
+    }
     
     body{
     Font-family: 'roboto', sans-serif;
@@ -62,12 +69,15 @@
     .desc{
       padding-top: 50px;
     }
-    h1{
-        font-size: 50px;
+    .intro > h1{
+        font-size: 70px;
         text-align: center;
         
     }
 
+    .contenido  h2{
+        font-size: 40px;
+    }
 
 
     /*FOOTER*/
