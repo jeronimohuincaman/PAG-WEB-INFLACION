@@ -46,6 +46,8 @@
         padding: 10px;
         display: flex;
         text-decoration: none;
+        position: fixed;
+
       }
       #menu li>a:hover{
         color: #000;
