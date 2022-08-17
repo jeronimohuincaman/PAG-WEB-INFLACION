@@ -20,9 +20,14 @@
         margin: 0 auto;
         height: 70px;
       }
+
+      .nav{
+        width: 1000px;
+      }
     
-    .menu{
+    #menu{
     scroll-behavior: smooth;
+    width: 100%;
     }
 
       ul{
@@ -42,9 +47,6 @@
       #menu>li{
         float: left;
         text-align:center
-      }
-      #menu>li>ul{
-        display: none;
       }
 
 
